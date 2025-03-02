@@ -21,4 +21,4 @@ A simple endless runner game built with **Unity** and **C#**, featuring:
 - Enhancing animations and effects.  
 
 ---
-💡 Made by **Ejola Osahontue.o** | [GitHub](EjolaOsahontue)  
+💡 Made by **Ejola Osahontue.o** | [GitHub](https://github.com/EjolaOsahontue)  
